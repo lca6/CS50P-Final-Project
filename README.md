@@ -1,5 +1,7 @@
 # Learn the Elements of the Periodic Table in the Terminal Window
-## Video Demo:  https://youtu.be/B2Yg8iJ5KZY
+## Video Demonstration:
+https://youtu.be/B2Yg8iJ5KZY
+
 ## Description:
 A game to learn the 119 elements of the Periodic Table that is played in the terminal window.
 
